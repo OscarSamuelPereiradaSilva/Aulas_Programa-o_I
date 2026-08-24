@@ -1,5 +1,5 @@
 print("ola mundo!")# mandando os arquivos
 
-print("Mahallo é gay")
+print("Aprendendo python todo dia!")
 
 
