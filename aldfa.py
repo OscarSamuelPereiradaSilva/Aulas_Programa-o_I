@@ -13,13 +13,8 @@ try:
     print(f"O resultado da divisão é {resultado}")
 except ValueError:
     print(f"Favor digitar somente números")
-  
-except ZeroDivisionError:
-    print(f"Não é possível dividir um número por 0")
-    
 except Exception as erro:
     print(f"Ocorreu um erro: {erro}")
-    
 else: 
     print("O programa foi executado corretamente!")
     
